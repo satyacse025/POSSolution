@@ -1,0 +1,33 @@
+D:\C# Project\POSSolution\POS\bin\Debug\POS.exe.config
+C:\xampp\htdocs\mysite\googledrive\POSSolution\POS\bin\Debug\POS.exe.config
+C:\xampp\htdocs\mysite\googledrive\POSSolution\POS\bin\Debug\POS.exe
+C:\xampp\htdocs\mysite\googledrive\POSSolution\POS\bin\Debug\POS.pdb
+C:\xampp\htdocs\mysite\googledrive\POSSolution\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\mysite\googledrive\POSSolution\POS\obj\Debug\POS.Login.resources
+C:\xampp\htdocs\mysite\googledrive\POSSolution\POS\obj\Debug\POS.Properties.Resources.resources
+C:\xampp\htdocs\mysite\googledrive\POSSolution\POS\obj\Debug\POS.csproj.GenerateResource.Cache
+C:\xampp\htdocs\mysite\googledrive\POSSolution\POS\obj\Debug\POS.exe
+C:\xampp\htdocs\mysite\googledrive\POSSolution\POS\obj\Debug\POS.pdb
+F:\C#\Google Drive\POSSolution\POS\bin\Debug\POS.exe.config
+F:\C#\Google Drive\POSSolution\POS\obj\Debug\POS.exe
+F:\C#\Google Drive\POSSolution\POS\obj\Debug\POS.pdb
+F:\C#\Google Drive\POSSolution\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+F:\C#\Google Drive\POSSolution\POS\obj\Debug\POS.Login.resources
+F:\C#\Google Drive\POSSolution\POS\obj\Debug\POS.Properties.Resources.resources
+F:\C#\Google Drive\POSSolution\POS\obj\Debug\POS.csproj.GenerateResource.Cache
+F:\C#\Google Drive\POSSolution\POS\bin\Debug\POS.exe
+F:\C#\Google Drive\POSSolution\POS\bin\Debug\POS.pdb
+C:\xampp\htdocs\mysite\googledrive\POSSolution\POS\obj\Debug\POS.MainBody.resources
+F:\C#\Google Drive\POSSolution\POS\obj\Debug\POS.MainBody.resources
+C:\xampp\htdocs\mysite\googledrive\POSSolution\POS\obj\Debug\POS.FormProductSettingsBody.resources
+C:\xampp\htdocs\mysite\googledrive\POSSolution\POS\obj\Debug\POS.FormAddProductBody.resources
+F:\C#\Google Drive\POSSolution\POS\obj\Debug\POS.FormProductSettingsBody.resources
+F:\C#\Google Drive\POSSolution\POS\obj\Debug\POS.FormAddProductBody.resources
+F:\C#\Google Drive\POSSolution\POS\obj\Debug\POS.ViewProduct.resources
+C:\xampp\htdocs\mysite\googledrive\POSSolution\POS\obj\Debug\POS.ViewProduct.resources
+C:\xampp\htdocs\mysite\googledrive\POSSolution\POS\obj\Debug\POS.FormPurchaseItemBody.resources
+F:\C#\Google Drive\POSSolution\POS\obj\Debug\POS.FormPurchaseItemBody.resources
+F:\C#\Google Drive\POSSolution\POS\bin\Debug\POS.exe.manifest
+F:\C#\Google Drive\POSSolution\POS\bin\Debug\POS.application
+F:\C#\Google Drive\POSSolution\POS\obj\Debug\POS.exe.manifest
+F:\C#\Google Drive\POSSolution\POS\obj\Debug\POS.application
